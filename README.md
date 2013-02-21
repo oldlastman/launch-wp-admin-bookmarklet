@@ -14,4 +14,10 @@ for that reason i made this bookmarklet
 
 
 this is the coda, create new bookmark/favourite and paste in url input 
-javascript:window.open(window.location['href']+"/wp-admin"
+javascript:window.open(window.location['href']+"/wp-admin")
+
+Tested on:
+- [x] Chrome 
+- [x] Firefox
+- [ ] IExplorer8
+- [x] Safari windows 
