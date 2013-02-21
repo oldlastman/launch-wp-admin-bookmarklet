@@ -1,0 +1,5 @@
+just create new bookmark / favourite 
+and paste this on url input
+
+javascript:window.open(window.location['href']+"/wp-admin")
+
