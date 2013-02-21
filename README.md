@@ -13,7 +13,7 @@ But if you want open wordpress admin in new tab? the process is easy... but it s
 for that reason i made this bookmarklet
 
 
-this is the coda, create new bookmark/favourite and paste in url input 
+this is the code, create new bookmark/favourite and paste in url input 
 javascript:window.open(window.location['href']+"/wp-admin")
 
 Tested on:
